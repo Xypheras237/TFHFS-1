@@ -3053,6 +3053,72 @@ Scheme
 				"antialias"	"1"
 			}
 		}
+		
+		"Circuit_28"
+		{
+			"1"
+			{
+				"name"		"Circuit"
+				"tall"		"28"
+				"weight"	"500"
+				"antialias"	"1"
+			}
+		}
+		
+		"Circuit_32"
+		{
+			"1"
+			{
+				"name"		"Circuit"
+				"tall"		"32"
+				"weight"	"500"
+				"antialias"	"1"
+			}
+		}
+		
+		"Circuit_36"
+		{
+			"1"
+			{
+				"name"		"Circuit"
+				"tall"		"36"
+				"weight"	"500"
+				"antialias"	"1"
+			}
+		}
+		
+		"Circuit_40"
+		{
+			"1"
+			{
+				"name"		"Circuit"
+				"tall"		"40"
+				"weight"	"500"
+				"antialias"	"1"
+			}
+		}
+		
+		"Circuit_44"
+		{
+			"1"
+			{
+				"name"		"Circuit"
+				"tall"		"44"
+				"weight"	"500"
+				"antialias"	"1"
+			}
+		}
+		
+		"Circuit_48"
+		{
+			"1"
+			{
+				"name"		"Circuit"
+				"tall"		"48"
+				"weight"	"500"
+				"antialias"	"1"
+			}
+		}
 	}
 
 	//
