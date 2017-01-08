@@ -2943,34 +2943,118 @@ Scheme
 				"dropshadow"	"1"
 			}
 		}
-	
-	// These are the custom fonts for the HUD.
-	
-		ExceedNormal12
+		
+		"ExceedMedium_8"
 		{
 			"1"
 			{
-				"name"		"EXCEED Normal"
+				"name"		"EXCEED Medium"
+				"tall"		"8"
+				"weight"	"500"
+				"antialias"	"1"
+			}
+		}
+		
+		"ExceedMedium_12"
+		{
+			"1"
+			{
+				"name"		"EXCEED Medium"
 				"tall"		"12"
 				"weight"	"500"
 				"antialias"	"1"
 			}
 		}
 		
-		ExceedNormal16
+		"ExceedMedium_16"
 		{
 			"1"
 			{
-				"name"		"EXCEED Normal"
+				"name"		"EXCEED Medium"
 				"tall"		"16"
 				"weight"	"500"
 				"antialias"	"1"
 			}
 		}
+		
+		"ExceedMedium_20"
+		{
+			"1"
+			{
+				"name"		"EXCEED Medium"
+				"tall"		"20"
+				"weight"	"500"
+				"antialias"	"1"
+			}
+		}
+		
+		"ExceedMedium_24"
+		{
+			"1"
+			{
+				"name"		"EXCEED Medium"
+				"tall"		"24"
+				"weight"	"500"
+				"antialias"	"1"
+			}
+		}
+		
+		"Circuit_8"
+		{
+			"1"
+			{
+				"name"		"Circuit"
+				"tall"		"8"
+				"weight"	"500"
+				"antialias"	"1"
+			}
+		}
+		
+		"Circuit_12"
+		{
+			"1"
+			{
+				"name"		"Circuit"
+				"tall"		"12"
+				"weight"	"500"
+				"antialias"	"1"
+			}
+		}
+		
+		"Circuit_16"
+		{
+			"1"
+			{
+				"name"		"Circuit"
+				"tall"		"16"
+				"weight"	"500"
+				"antialias"	"1"
+			}
+		}
+		
+		"Circuit_20"
+		{
+			"1"
+			{
+				"name"		"Circuit"
+				"tall"		"20"
+				"weight"	"500"
+				"antialias"	"1"
+			}
+		}
+		
+		"Circuit_24"
+		{
+			"1"
+			{
+				"name"		"Circuit"
+				"tall"		"24"
+				"weight"	"500"
+				"antialias"	"1"
+			}
+		}
 	}
-	
-	
-	
+
 	//
 	//////////////////// BORDERS //////////////////////////////
 	//
@@ -5498,26 +5582,16 @@ Scheme
 				"range" "0x0000 0xFFFF"
 			}
 		}			
-		"7"
-		{
-			"font"	"resource/fonts/exceed_normal.ttf"
-			"name"	"EXCEED Normal"
-		}
+		"7" "resource/ocra.ttf"
 		"8"
 		{
-			"font"	"resource/fonts/exceed_normal_oblique.ttf"
-			"name"	"EXCEED Normal Oblique"
+			"font"	"resource/fonts/exceed_medium.ttf"
+			"name" 	"EXCEED Medium"
 		}
 		"9"
 		{
-			"font"	"resource/fonts/exceed_medium.ttf"
-			"name"	"Exceed Medium"
+			"font"	"resource/fonts/circuit.ttf"
+			"name"	"Circuit"
 		}
-		"10"
-		{
-			"font"	"resource/fonts/exceed_medium_oblique.ttf"
-			"name"	"EXCEED Medium Oblique"
-		}
-		
 	}
 }
